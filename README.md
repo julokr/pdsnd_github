@@ -48,5 +48,23 @@ The **original** data sets can be accessed from here. ( [Chicago data](https://w
 city](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data) ) 
 
 ### Credits
+The following resources were used to accomplish this project.
 
+1.Pandas documentation
+https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
+
+2.Time documentation
+https://docs.python.org/3/library/time.html
+
+3.numpy documentation
+https://numpy.org/doc/1.17/user/basics.html
+
+4.While loop
+https://www.tutorialspoint.com/python3/python_while_loop.html
+
+5.Python while loops
+https://stackoverflow.com/questions/14062266/python-while-loops
+
+6. Python standard library
+https://docs.python.org/3/library/
 
