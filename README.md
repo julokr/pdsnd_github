@@ -36,12 +36,17 @@ provide the following information:
 - counts of each gender (only available for NYC and Chicago)
 - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
-
-
-
 ### Files used
-Include the files used
+- **README.md**
+This file contains the all the project information
+
+- **bikeshare_2.py**
+This is the python script used to explore the data sets
+
+- **The datasets**
+The **original** data sets can be accessed from here. ( [Chicago data](https://www.divvybikes.com/system-data), [New york 
+city](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data) ) 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
